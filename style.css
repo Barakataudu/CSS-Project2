@@ -1,0 +1,34 @@
+p{ 
+    margin: 20px;
+}
+
+#section1{
+    text-align: justify;
+    color: green;
+    font-size: 14px;
+}
+
+#section2{
+    text-align: justify;
+    color: red;
+    font-size: 14px;
+}
+#section3{
+    text-align: justify;
+    color: blue;
+    font-size: 14px;
+}
+#section1-paragraphs{
+    font-style: italic;
+    font-weight: bold;
+}
+
+#section2-paragraphs{
+    font-style: italic;
+    font-weight: bold;
+}
+
+#section3-paragraphs{
+    font-style: italic;
+    font-weight: bold;
+}
